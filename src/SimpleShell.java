@@ -22,5 +22,7 @@ public class SimpleShell{
 		while(input.hasNext())
 			System.out.println(input.next()); 
 		
+		input.close();
+		
 	}
 }
