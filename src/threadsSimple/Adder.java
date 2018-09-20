@@ -5,17 +5,19 @@ import java.util.Vector;
 public class Adder {
 
 	public static void main(String[] args) throws InterruptedException {
+		/*
+		Below is how to start ice 3... I commented this code out!
 		MyThread one = new MyThread("bob");
 		MyThread two = new MyThread("ann");
 		
 		one.start();
 		two.start();
 		
-		Thread one = new Thread(new MyRunnable("bob"));
-		Thread two = new Thread(new MyRunnable("ann"));
+		Thread onet = new Thread(new MyRunnable("bob"));
+		Thread twot = new Thread(new MyRunnable("ann"));
 		
-		one.start();
-		two.start();
+		onet.start();
+		twot.start();*/
 		
 		Vector<Integer> results = new Vector<Integer>();
 		
