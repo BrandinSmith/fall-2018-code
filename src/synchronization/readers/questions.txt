@@ -1,0 +1,9 @@
+Readers/Writers Example
+
+1) How many semaphores are used?
+
+2) How many readers can read at a given time?
+
+2) Why is more than one semaphore needed?
+
+3) How do they ensure that no one writes while data is being read?
